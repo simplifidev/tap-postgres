@@ -1,3 +1,14 @@
+output
+postgres.json
+mtls
+config.json
+snowflake.json
+properties.json
+state.json
+sync.sh
+snowflakeconfig.json
+stitch.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
